@@ -1,0 +1,1 @@
+import{t,a}from"../chunks/CyouTt3M.js";var i=t('<div class="about svelte-oczoi1"><div class="arboreum dynamic-text-shadow svelte-oczoi1">Arboreum</div> <div class="text svelte-oczoi1">Written in Svelte 5, and Node.js.</div></div>');function d(e,s){var o=i();a(e,o)}export{d as component};

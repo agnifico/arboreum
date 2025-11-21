@@ -1,0 +1,1 @@
+import{t as o,a as s}from"../chunks/CyouTt3M.js";import"../chunks/DntguLPS.js";var a=o('<div class="home svelte-1e5ces2"><div class="welcome-text svelte-1e5ces2">Welcome to Arboreum! <p class="svelte-1e5ces2">Create a new note to get started.</p></div></div>');function p(e){var t=a();s(e,t)}export{p as component};
